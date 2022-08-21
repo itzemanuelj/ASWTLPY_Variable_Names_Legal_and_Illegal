@@ -58,3 +58,18 @@ negative_answer = "no"
 asian_country = "China"
 african_country = "Kenya"
 print("ok")
+
+# Correct the illegal variable names and revise them so they have the recommended style.
+
+# 1stvariable = 1
+# another-variable = 2
+# onemorevariable = 3
+# print(another-variable)
+
+first_variable = 1
+another_variable = 2
+one_more_variable = 3
+print(another_variable)
+
+# Make up a variable name that includes a number.
+var1 = 10
